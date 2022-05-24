@@ -17,10 +17,10 @@
     <img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
-<img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" height="300"/>
-
 <br>
+
+<img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400"/>
+
 <br>
 <br>
 

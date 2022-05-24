@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" />
+<img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" height="300/>
 
 <br>
 <br>

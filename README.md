@@ -39,5 +39,5 @@
  
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chammounc&show_icons=true&locale=en&layout=compact" alt="chammounc" width="350" /> &nbsp; &nbsp;  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC" width="420"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chammounc&langs_count=10&show_icons=true&locale=en&layout=compact" alt="chammounc" width="350" /> &nbsp; &nbsp;  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC" width="420"/> 
 

@@ -25,7 +25,8 @@
 <br>
 <br>
 
-- 🌱 Expanding flutter knowledge
+- 🌱 Flutter enthusiast
+- 🌐 Expanding web knowledge
 - 😁 Pronouns: He/His
 - 📫 How to reach me: Click on one of the badges above ☝️
 - 💬 Ask me about Flutter

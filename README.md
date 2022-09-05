@@ -24,7 +24,7 @@
 <br>
 
 <!-- <img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400"/> -->
-<img align ="right" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350"/>
+<!-- <img align ="right" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350"/> -->
 
 <br>
 <br>

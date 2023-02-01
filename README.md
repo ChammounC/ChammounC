@@ -23,15 +23,15 @@
 </p>
 <br>
 
-<!-- <img align ="right" src="https://github.com/ChammounC/images/blob/master/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400"/> -->
-<img align ="right" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350"/>
+
+<!-- <img align ="right" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350"/> -->
+<img align="right" src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=790b7611f8bcf4a3edfe98e8e9251c45afb1db8fe88a5b93&rid=giphy.gif&ct=g" width="400"/>
 
 <br>
 <br>
 
 - 🌱 Flutter enthusiast
 - 🌐 Expanding web knowledge
-- 😁 Pronouns: He/His
 - 📫 How to reach me: Click on one of the badges above ☝️
 - 💬 Ask me about Flutter
 - ⚡ Fun fact: I love to play musical instruments
@@ -42,6 +42,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <img title="Linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="40"/>
 <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <!--<img title="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> -->

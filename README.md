@@ -9,11 +9,11 @@
 <br>
 
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true" alt="chammounc" width="50%" /> 
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true" alt="chammounc" width="40%" /> 
 
 <br>
 
-<h4>About Me</h4>
+<h3>About Me</h3>
 
 - 🌱 Flutter enthusiast
 - 🌐 Expanding web knowledge
@@ -22,11 +22,11 @@
 
 <br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC&theme=prussian&hide_border=true" width="50%"/> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC&theme=prussian&hide_border=true" width="40%"/> 
 
 <br>
 
-<h4>Languages and Tools</h4>
+<h3>Languages and Tools</h3>
 
 
 <p align="left">

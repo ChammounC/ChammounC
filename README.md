@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi,
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"/>
   &thinsp;I’m Chammoun
@@ -12,6 +11,8 @@
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true" alt="chammounc" width="350" /> 
 
+<br>
+
 <h4>About Me</h4>
 
 - 🌱 Flutter enthusiast
@@ -21,11 +22,9 @@
 
 <br>
 
-<!-- [//]:#asdfhjkdsf -->
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC&theme=prussian&hide_border=true" width="420"/> 
 
-
+<br>
 
 <h4>Languages and Tools</h4>
 
@@ -42,9 +41,4 @@
 <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a> &nbsp; 
 <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> &nbsp; 
 
- 
 <br>
-
-
-
-

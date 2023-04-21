@@ -9,7 +9,7 @@
 <br>
 
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true" alt="chammounc" width="350" /> 
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true" alt="chammounc" width="420" /> 
 
 <br>
 

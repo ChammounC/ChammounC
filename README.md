@@ -24,7 +24,6 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC&theme=prussian&hide_border=true" width="40%"/> 
 
-<br>
 
 <h3>Languages and Tools</h3>
 

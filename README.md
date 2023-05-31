@@ -1,5 +1,5 @@
 <h1 align="center">Hi,
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"/>
+ <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50"/>
   &thinsp;I’m Chammoun
 </h1>
 

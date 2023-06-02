@@ -40,6 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 25 May 2023 - To: 01 June 2023
+
 JavaScript   21 hrs 14 mins  ███████████████████████▒░   93.50 %
 Bash         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %

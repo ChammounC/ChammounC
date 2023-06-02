@@ -10,7 +10,7 @@
 - 🌱 Flutter enthusiast
 - 🌐 Expanding web knowledge
 - 💬 Ask me about Flutter
-- ⚡ Hobby: I love to play musical instruments
+- 🎸 Hobby: I love to play musical instruments
 
 <br />
 

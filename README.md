@@ -40,12 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 03 July 2023
+From: 27 June 2023 - To: 04 July 2023
 
-Dart         1 hr 11 mins    ███████████████░░░░░░░░░░   59.94 %
-JavaScript   42 mins         █████████░░░░░░░░░░░░░░░░   35.55 %
-HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart   1 hr 11 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

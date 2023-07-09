@@ -1,11 +1,11 @@
-<h1 align="center">Hi,
+<p align="center">Hi,
  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50"/>
   &thinsp;I’m Chammoun
-</h1>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chammounc&label=Profile%20views&color=0e75b6&style=flat" alt="chammounc" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chammounc&label=Profile%20views&color=0e75b6&style=flat" alt="chammounc" /> </p>
 
-<h3>About Me</h3>
+<b>About Me</b>
 
 - 🌱 Flutter enthusiast
 - 🌐 Expanding web knowledge
@@ -14,12 +14,15 @@
 
 <br />
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chammounc&show_icons=true&theme=tokyonight&hide_border=true" /></a> |
+| ------------- |
+ 
 | <a href="https://github.com/anuraghazra/github-readme-stats" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChammounC&theme=prussian&hide_border=true" alt="contribution streak"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 -------
 
-<h3>Languages and Tools</h3>
+<b>Languages and Tools</b>
 
 <p align="left">
 <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>&nbsp;
@@ -35,7 +38,7 @@
 
 -------
 
-<h3>Weekly development breakdown</h3>
+<b>Weekly development breakdown</b>
 
 <!--START_SECTION:waka-->
 

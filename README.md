@@ -44,13 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 08 July 2023
+From: 02 July 2023 - To: 09 July 2023
 
-Dart             2 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.05 %
-Markdown         1 hr 30 mins    ████████▒░░░░░░░░░░░░░░░░   33.74 %
-GitIgnore file   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-YAML             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart             3 hrs 6 mins    ███████████████▓░░░░░░░░░   62.24 %
+Markdown         1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+GitIgnore file   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+YAML             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

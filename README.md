@@ -1,7 +1,4 @@
-<p align="center">Hi,
- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50"/>
-  &thinsp;I’m Chammoun
-</p>
+<p align="center"><a href="https://ChammounC.github.io"><img width="60%" alt="Hello, I'm Chammoun" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chammounc&label=Profile%20views&color=0e75b6&style=flat" alt="chammounc" /> </p>
 

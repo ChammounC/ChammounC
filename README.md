@@ -1,13 +1,17 @@
 <p align="center"><a href="https://ChammounC.github.io"><img width="60%" alt="Hello, I'm Chammoun" src="./assets/gh-readme-header.png" /></a></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chammounc&label=Profile%20views&color=0e75b6&style=flat" alt="chammounc" /> </p>
-
-<b>About Me</b>
-
+<p> <b>About Me</b>
+ 
+ <img src="https://komarev.com/ghpvc/?username=chammounc&label=Profile%20views&color=0e75b6&style=flat" alt="chammounc" align="right"/>
+ 
 - 🌱 Flutter enthusiast
 - 🌐 Expanding web knowledge
 - 💬 Ask me about Flutter
 - 🎸 Hobby: I love to play musical instruments
+
+ </p>
+
+
 
 <br />
 

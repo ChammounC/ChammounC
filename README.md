@@ -13,7 +13,7 @@
 
 <br />
  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chammounc&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chammounc&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=chammounc&langs_count=8&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 -------

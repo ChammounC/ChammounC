@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ChammounC.github.io"><img width="60%" alt="Hello, I'm Chammoun" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://ChammounC.github.io"><img width="60%" alt="Hello, I'm Chammoun" src="https://github.com/ChammounC/portfolio/assets/43007452/a2e1dd0f-b8fd-4b36-aeb8-ed1177d2c228" /></a></p>
 
 <p> <b>About Me</b>
  

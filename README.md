@@ -39,10 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-Dart   39 mins         ████████████████████████░   95.71 %
-YAML   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Dart             2 hrs 51 mins   ███████████████████████▒░   93.79 %
+YAML             7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Properties       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->

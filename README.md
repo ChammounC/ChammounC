@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
-Kotlin       3 hrs 37 mins   ███████████████▓░░░░░░░░░   63.25 %
-Dart         1 hr 55 mins    ████████▒░░░░░░░░░░░░░░░░   33.56 %
-XML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin       4 hrs 7 mins    █████████████████████▓░░░   87.31 %
+Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+XML          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Dart         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

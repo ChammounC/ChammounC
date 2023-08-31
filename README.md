@@ -24,6 +24,7 @@
 <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>&nbsp;
 <img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>&nbsp;
 <img title="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="30" height="30"/>&nbsp;
+<img title="Jetpack Compose" src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg" alt="compose" width="33" height="33"/>&nbsp;
 <img title="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>&nbsp;
 <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;
 <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>&nbsp;

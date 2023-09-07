@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Kotlin                 7 hrs 48 mins   ███████████████████████▒░   93.26 %
-ActionScript           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-XML                    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-GitIgnore file         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Kotlin                 8 hrs 4 mins    ██████████████████████▒░░   89.27 %
+GitIgnore file         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+ActionScript           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Groovy                 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->

@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Kotlin            1 hr 50 mins    ████████████████▓░░░░░░░░   67.23 %
-Dart              25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-GitIgnore file    15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Groovy            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Gradle            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Dart              25 mins         █████████▓░░░░░░░░░░░░░░░   38.22 %
+GitIgnore file    15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Kotlin            15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+Groovy            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Gradle            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->

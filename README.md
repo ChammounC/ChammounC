@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Dart              25 mins         █████████▓░░░░░░░░░░░░░░░   38.22 %
-GitIgnore file    15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-Kotlin            15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-Groovy            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Gradle            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Dart             25 mins         ███████████████████████▓░   95.21 %
+Gradle           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->

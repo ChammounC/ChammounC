@@ -40,10 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-Dart       3 hrs 43 mins   ████████████████████████▒   97.71 %
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Dart       3 hrs 41 mins   ████████████████████████▒   97.69 %
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```

@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Dart              3 hrs 48 mins   █████████████████████▓░░░   86.39 %
-YAML              17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Java Properties   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Groovy            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+YAML              14 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
+Java Properties   10 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %
+Dart              7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+Groovy            3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Properties        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->

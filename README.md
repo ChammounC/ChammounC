@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 YAML              14 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
 Java Properties   10 mins         ███████░░░░░░░░░░░░░░░░░░   28.45 %

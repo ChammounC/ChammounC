@@ -40,10 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
 JavaScript       7 hrs 59 mins   █████████████████████▒░░░   85.30 %
-Dart             51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Dart             51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
 Kotlin           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 TypeScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %

@@ -40,12 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-YAML             12 mins         ███████████████▓░░░░░░░░░   62.17 %
-Dart             7 mins          █████████▒░░░░░░░░░░░░░░░   37.21 %
+YAML             12 mins         ███████████████▓░░░░░░░░░   62.28 %
+Dart             7 mins          █████████▒░░░░░░░░░░░░░░░   37.27 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 

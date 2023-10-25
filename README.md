@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
 YAML             12 mins         ███████████████▓░░░░░░░░░   62.28 %
 Dart             7 mins          █████████▒░░░░░░░░░░░░░░░   37.27 %

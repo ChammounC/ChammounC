@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2023 - To: 03 November 2023
+From: 28 October 2023 - To: 04 November 2023
 
-Dart              7 mins          █████████░░░░░░░░░░░░░░░░   35.37 %
-YAML              5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Gradle            4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Java Properties   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-GitIgnore file    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

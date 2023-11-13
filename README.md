@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 TypeScript        3 mins          ████████████▓░░░░░░░░░░░░   50.74 %
 Java Properties   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.16 %

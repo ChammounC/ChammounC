@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-TypeScript        3 mins          ████████████▓░░░░░░░░░░░░   50.74 %
-Java Properties   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.16 %
-Markdown          0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Dart              0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-GitIgnore file    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

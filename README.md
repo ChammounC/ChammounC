@@ -40,9 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-No activity tracked
+Dart             37 mins         ████████████████████████▒   96.87 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->

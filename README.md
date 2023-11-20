@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Dart             37 mins         ████████████████████████▒   96.87 %
-TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Dart             40 mins         ████████████████████████▒   97.14 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

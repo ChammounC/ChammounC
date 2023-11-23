@@ -40,12 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2023 - To: 21 November 2023
+From: 15 November 2023 - To: 22 November 2023
 
-Dart             40 mins         ████████████████████████▒   97.14 %
-TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Dart              42 mins         █████████████▓░░░░░░░░░░░   54.67 %
+JSON              12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Java Properties   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Groovy            6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Gradle            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->

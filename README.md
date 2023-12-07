@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2023 - To: 05 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-TypeScript        13 hrs 36 mins  ██████████████████████▓░░   90.06 %
-XML               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-GitIgnore file    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Git Config        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript        22 hrs 12 mins  ███████████████████████▒░   93.63 %
+XML               35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JSON              28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Git Config        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->

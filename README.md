@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-TypeScript   25 hrs 48 mins  ████████████████████████▓   98.92 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Prisma       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript        22 hrs 34 mins  ███████████████████████▒░   93.85 %
+Groovy            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+GitIgnore file    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Bash              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Prisma            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->

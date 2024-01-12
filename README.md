@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-TypeScript        25 hrs 11 mins  ███████████████████████▓░   94.85 %
-Groovy            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-GitIgnore file    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript        31 hrs 48 mins  ████████████████████████░   95.88 %
+Groovy            55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+GitIgnore file    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JavaScript        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->

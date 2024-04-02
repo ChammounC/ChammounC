@@ -42,12 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-TypeScript    26 hrs 35 mins  █████████████████████████   99.65 %
-Image (svg)   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript    36 hrs 31 mins  █████████████████████████   99.51 %
+Image (svg)   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+CSS           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

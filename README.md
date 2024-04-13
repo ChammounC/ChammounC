@@ -42,13 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-TypeScript        36 hrs 22 mins  ████████████████████████▓   99.15 %
-Git Config        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Image (svg)       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-XML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Groovy            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript    36 hrs 37 mins  █████████████████████████   99.80 %
+Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

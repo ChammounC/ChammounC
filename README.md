@@ -42,10 +42,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-TypeScript   8 hrs 43 mins   █████████████████████████   99.75 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   14 hrs 37 mins  █████████████████████████   99.65 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->

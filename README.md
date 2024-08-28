@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-TypeScript   7 hrs 4 mins    ████████████████████████░   95.63 %
-JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Groovy       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript   5 hrs 10 mins   ███████████████████████▓░   94.11 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Groovy       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->

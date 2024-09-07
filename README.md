@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-TypeScript   4 hrs 8 mins    ███████████████████████▒░   93.85 %
-XML          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Groovy       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript   3 hrs 16 mins   ███████████████████████░░   92.35 %
+XML          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Groovy       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->

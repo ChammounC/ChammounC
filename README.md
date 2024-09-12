@@ -42,11 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-TypeScript   3 hrs 16 mins   ███████████████████████░░   92.33 %
-XML          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Groovy       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+TypeScript   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

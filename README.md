@@ -22,6 +22,7 @@
 
 <p align="left">
 <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>&nbsp;
+<img title="Swift" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/>&nbsp;
 <img title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>&nbsp;
 <img title="NextJS" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="nextjs" width="30" height="30"/>&nbsp;
 <img title="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="30" height="30"/>&nbsp;
@@ -32,19 +33,22 @@
 <img title="NextJS" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="30" height="30"/>&nbsp;
 <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="30" height="30"/>&nbsp;
 <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>&nbsp;
+<img title="OneSignal" src="https://media.onesignal.com/email/onesignal-bimi.svg" alt="onesignal" width="30" height="30"/>&nbsp;
 
 <br />
 
+<!--
 -------
 
 <b>Weekly development breakdown</b>
-
+-->
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 03 November 2024 - To: 10 November 2024
 
 No activity tracked
 ```
-
+-->
+<!--
 <!--END_SECTION:waka-->
